@@ -187,10 +187,10 @@ The app will run on `http://localhost:5000`
 
 | Name | Department | City |
 |------|-------------|------|
-| **Pranjal Mohite** | AI & DS (2718) | Pune-26 |
 | **Aarya Kulkarni** | ENTC (2903) | Pune-27 |
 | **Vaishnavi Ahire** | Comp (2851) | Pune-27 |
 | **Shivanshi Gupta** | DS (1386) | Mumbai-26 |
+| **Pranjal Mohite** | AI & DS (2718) | Pune-26 |
 | **Prerna Pal** | DS (1368) | Mumbai-26 |
 
 ---
